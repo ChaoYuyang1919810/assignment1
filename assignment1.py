@@ -4,7 +4,7 @@ Name: Yuyang Chao
 Date started: 03-04-2025
 GitHub URL:https://github.com/ChaoYuyang1919810/assignment1.git
 Estimate: 8 h
-Actual: 10 h
+Actual: 11 h
 """
 
 # Constant for file name because teacher said to use them
