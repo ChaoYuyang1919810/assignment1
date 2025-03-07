@@ -2,9 +2,9 @@
 Song List 1.0 - by Yuyang Chao
 Name: Yuyang Chao
 Date started: 03-04-2025
-GitHub URL:
-Estimate: 8 hours
-Actual: 10 hours
+GitHub URL:https://github.com/ChaoYuyang1919810/assignment1.git
+Estimate: 8 h
+Actual: 10 h
 """
 
 # Constant for file name because teacher said to use them
